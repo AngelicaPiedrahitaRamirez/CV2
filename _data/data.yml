@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: mariaapiedrahita@javeriana.edu.co
     phone: 3213845011
-    timezone: America/Colombia Timezone
+    Horario: America/Colombia
     citizenship:
-    website: angelicapiedrahita.com #do not add http://
+    Sitio web: angelicapiedrahita.com #do not add http://
     linkedin: Angepiedrahita
     xing: Angepiedrahita
     github: AngelicapiedrahitaRamirez
@@ -30,13 +30,13 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
-          level: B2
+        - idiom: Inglés
+          level: B1
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Español
+          level: Profesional
 
     interests:
       title: Intereses
@@ -53,8 +53,8 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-      Estudiante de Ingenieria de Sistemas con habilidades en liderazgo, comunicacion
-      efectiva y resolucion de problemas. Cuento con experiencia en el ambito academico
+      Estudiante de Ingeniería de Sistemas con habilidades en liderazgo, comunicación
+      efectiva y resolución de problemas. Cuento con experiencia en el ámbito académico
       como monitora de programación en C++, además de haber participado activamente en
       iniciativas estudiantiles y proyectos organizacionales. Me destaco por mi
       capacidad de organización, adaptabilidad y empatía, cualidades que me han
@@ -77,28 +77,23 @@ education:
             - Bullet point
   
 experiences:
-    title: Experiencia Laboral
+    title: Experiencia
     info:
-      - rol: Monitora de Programación en C++
-        tiempo: 2023 - Actualidad
-        compañia: Pontificia Universidad Javeriana
-        details:
-          title: Responsabilidades
-          items:
-            Apoyo académico a estudiantes en temas y talleres relacionados con C++.
-            Calificación de trabajos y resolución de dudas de los estudiantes.
-            Desarrollo de material educativo enfocado en la mejora del aprendizaje 
-             y comprensión de los conceptos básicos de la programación.
-
-      - rol: Líder del Comité Estudiantil de Gatos
-        tiempo: 2024 - Actualidad
-        compañia: Pontificia Universidad Javeriana
-        details:
-          title: Responsabilidades
-          items:
-            Organización y supervisión de actividades de bienestar animal en el campus.
-            Coordinación de equipos y comunicación efectiva con la comunidad universitaria.
-            Gestión de donaciones y promoción de adopciones responsables.
+      - role: Monitora de Programación en C++
+        time: 2023 - Actualidad
+        company: Pontificia Universidad Javeriana
+        details: |
+          Apoyo académico a estudiantes en temas y talleres relacionados con C++.
+          Calificación de trabajos y resolución de dudas de los estudiantes.
+          Desarrollo de material educativo enfocado en la mejora del aprendizaje 
+          y comprensión de los conceptos básicos de la programación.
+      - role: Líder del Comité Estudiantil de Gatos
+        time: 2024 - Actualidad
+        company: Pontificia Universidad Javeriana
+        details: |
+          Organización y supervisión de actividades de bienestar animal en el campus.
+          Coordinación de equipos y comunicación efectiva con la comunidad universitaria.
+          Gestión de donaciones y promoción de adopciones responsables.
 
 skills:
   title: Habilidades y Competencias
